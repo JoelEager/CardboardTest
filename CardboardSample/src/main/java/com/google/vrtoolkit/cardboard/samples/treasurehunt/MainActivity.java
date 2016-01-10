@@ -52,8 +52,8 @@ public class MainActivity extends CardboardActivity implements CardboardView.Ste
   private static final float CAMERA_Z = 0.01f;
   private static final float TIME_DELTA = 0.3f;
 
-  private static final float YAW_LIMIT = 0.12f;
-  private static final float PITCH_LIMIT = 0.12f;
+  private static final float YAW_LIMIT = 0.25f;
+  private static final float PITCH_LIMIT = 0.25f;
 
   private static final int COORDS_PER_VERTEX = 3;
 
